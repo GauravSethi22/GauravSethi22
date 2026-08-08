@@ -140,15 +140,6 @@ I enjoy working at the intersection of:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravSethi22&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSethi22&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -161,14 +152,6 @@ I enjoy working at the intersection of:
   <a href="https://linkedin.com/in/gauravsethi22">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/GauravSethi22/GauravSethi22/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
