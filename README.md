@@ -36,7 +36,7 @@
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="240">
 </picture>
 
-I'm a **Computer Science undergrad at Thapar Institute of Engineering and Technology** (CGPA: 9.25/10.0), currently building real-time data pipelines and AI-driven systems.
+I'm a **Computer Science undergrad at Thapar Institute of Engineering and Technology**, currently building real-time data pipelines and AI-driven systems.
 
 I enjoy working at the intersection of:
 - **Streaming data & lakehouse architecture** — Kafka, Spark, Databricks
